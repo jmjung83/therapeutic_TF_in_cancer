@@ -1,8 +1,5 @@
-# therapeutic_TF_in_cancer
-
-## [Title]
-## Characterizing therapeutic signatures of tran-scription factors in cancer by incorporating profiles in compound treated cells
-## (Jinmyung Jung)
+### [Publication Title]
+### Characterizing therapeutic signatures of tran-scription factors in cancer by incorporating profiles in compound treated cells (Jinmyung Jung)
 
 ### [Environment]
 * python: 3.7.3
