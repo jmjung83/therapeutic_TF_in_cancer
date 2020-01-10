@@ -1,12 +1,12 @@
-### [Publication Title]
-### Characterizing therapeutic signatures of tran-scription factors in cancer by incorporating profiles in compound treated cells (Jinmyung Jung)
+## [Publication Title]
+## Characterizing therapeutic signatures of tran-scription factors in cancer by incorporating profiles in compound treated cells (Jinmyung Jung)
 
-### [Environment]
+## [Environment]
 * python: 3.7.3
 * Anaconda: 2019.07
 
-### [jupyter notebook files]
-#### < pre-proccess >
+## [jupyter notebook files]
+### << pre-proccess >>
 * preProc1_expression(LINCS):
   * process compound induced gene expressions in LINCS(The Library of Integrated Network-Based Cellular Signatures)
 * preProc2_IC50(GDSC):
