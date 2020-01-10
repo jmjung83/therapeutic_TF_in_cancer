@@ -6,7 +6,8 @@
 * Anaconda: 2019.07
 
 ### [jupyter notebook files]
-* preProc 1-5: pre-processing
+* preProccess
+  * 1-5: pre-processing
 * mainAnal 1-5: main analysis
 * evaluation 1-2: evaluation
 * discussion 1-2: discussion
