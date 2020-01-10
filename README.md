@@ -9,6 +9,7 @@
 ### << pre-proccessing >>
 * preProc1_expression(LINCS).ipynb:
   * process compound induced gene expressions in LINCS(The Library of Integrated Network-Based Cellular Signatures)
+  * The used Broad_LINCS_Level3_file can be downloaded at https://bit.ly/2ux0TZL (not available in this github repository due to large-file size (44GB))
 * preProc2_IC50(GDSC).ipynb:
   * process compound induced cell viabilities in GDSC(Genomics of Drug Sensitivity in Cancer)
   * get common compounds between LINCS and GDSC
