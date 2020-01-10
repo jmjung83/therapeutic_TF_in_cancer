@@ -19,6 +19,15 @@
 * preProc5_Effect&CellSelection:
   * estimate effectiveness of compound treatments and selecte cell lines by the three criteria (A375 and HT29)
 ### << main analysis >>
-* mainAnal 1-5: main analysis
+* mainAnal1_TFA_distribution:
+  * scatter plots of the average and standard deviation of TF activities for each of 627 TFs
+* mainAnal2_TT_Scores:
+  * compute therapeutic TF (TT) scores and thier FDRs
+* mainAnal3_TCP_scores:
+  * compute therapeutically correlated TF pair (TCP) scores and thier FDRs
+* mainAnal4_TTbox_and_TCPscatter:
+  * draw box plots and scatter plots of TF activities for the top TTs and TCPs in A375 cell line
+* mainAnal5_sigTT_sigTCP_visualization:
+  * draw heatmap of TT scores and TCP scores for the characterized TTs and TCPs in the both cell line
 * evaluation 1-2: evaluation
 * discussion 1-2: discussion
