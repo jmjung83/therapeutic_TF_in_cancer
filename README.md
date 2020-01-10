@@ -1,5 +1,5 @@
 ## [Publication Title]
-## Characterizing therapeutic signatures of tran-scription factors in cancer by incorporating profiles in compound treated cells (Jinmyung Jung)
+## Characterizing therapeutic signatures of tran-scription factors in cancer by incorporating profiles in compound treated cells (by Jinmyung Jung)
 
 ## [Environment]
 * python: 3.7.3
@@ -18,7 +18,7 @@
   * estimate TF activity based on the computed fold-changes and TF target interactions (TRUST2)
 * preProc5_Effect&CellSelection:
   * estimate effectiveness of compound treatments and selecte cell lines by the three criteria (A375 and HT29)
-
+### << main analysis >>
 * mainAnal 1-5: main analysis
 * evaluation 1-2: evaluation
 * discussion 1-2: discussion
