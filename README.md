@@ -6,7 +6,7 @@
 * Anaconda: 2019.07
 
 ## [jupyter notebook files]
-### << pre-proccess >>
+### << pre-proccessing >>
 * preProc1_expression(LINCS).ipynb:
   * process compound induced gene expressions in LINCS(The Library of Integrated Network-Based Cellular Signatures)
 * preProc2_IC50(GDSC).ipynb:
@@ -37,5 +37,7 @@
   * functional enrichment test for TCPs with biologial processes
 ### << discussion >>
 * discussion1_TCPscatter.ipynb:
+  * TF activity scatter plots for TF pairs having similar TCP scores but different scenarios
+* discussion2_conflicting_TT.ipynb:
+  * TFs having conflict TT scores between the A375 and HT29 cell lines
 
-* discussion 1-2: discussion
